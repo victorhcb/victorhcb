@@ -4,7 +4,7 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aprendendo Desenvolvimento Web
 -----------------------
 
-Comecei a programar com 15 anos e desde então sou cada dia mais apaixonado pelo mundo da tecnologia. Trabalho como parceiro da Wix.com como desenvolvedor Wix Velo. Buscando me aprofundar em outras tecnologias e profissionalizar meus conhecimentos.
+Comecei a programar com 15 anos e desde então sou cada dia mais apaixonado pelo mundo da tecnologia. Sou parceiro da Wix.com como desenvolvedor Wix Velo. Buscando me aprofundar em outras tecnologias e profissionalizar meus conhecimentos.
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [victorhcardinali@gmail.com](mailto:victorhcardinali@gmail.com)
