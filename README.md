@@ -1,8 +1,5 @@
-Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Victor Henrique
+Oi!👋 Meu nome é Victor Henrique
 =======================================================================================================================================
-
-Aprendendo Desenvolvimento Web
------------------------
 
 Comecei a programar com 15 anos e desde então sou cada dia mais apaixonado pelo mundo da tecnologia. Sou parceiro da Wix.com como desenvolvedor Wix Velo. Buscando me aprofundar em outras tecnologias e profissionalizar meus conhecimentos.
 
