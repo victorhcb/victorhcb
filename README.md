@@ -3,9 +3,9 @@ Oi!👋 Meu nome é Victor Henrique
 
 Comecei a programar com 15 anos e desde então sou cada dia mais apaixonado pelo mundo da tecnologia. Sou parceiro da Wix.com como desenvolvedor Wix Velo. Buscando me aprofundar em outras tecnologias e profissionalizar meus conhecimentos.
 
-* 🌍  I'm based in São Paulo
-* ✉️  You can contact me at [victorhcardinali@gmail.com](mailto:victorhcardinali@gmail.com)
-* 🧠  I'm learning Next.js
+* 🌍  Estou em São Paulo
+* ✉️  Você pode entrar em contato comigo através do email [victorhcardinali@gmail.com](mailto:victorhcardinali@gmail.com)
+* 🧠  Estou aprendendo Next.js
 
 ### Skills
 
