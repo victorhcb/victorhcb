@@ -6,6 +6,7 @@ Comecei a programar com 15 anos e desde então sou cada dia mais apaixonado pelo
 * 🌍  Estou em São Paulo
 * ✉️  Você pode entrar em contato comigo através do email [victorhcardinali@gmail.com](mailto:victorhcardinali@gmail.com)
 * 🧠  Estou aprendendo Next.js
+* 🧑‍💻  Atualmente desenvolvedor em cursinho popular CUJA UNIFESP
 
 ### Skills
 
