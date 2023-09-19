@@ -1,7 +1,7 @@
 Oi!👋 Meu nome é Victor Henrique
 =======================================================================================================================================
 
-Comecei a programar com 15 anos e desde então sou cada dia mais apaixonado pelo mundo da tecnologia. Sou parceiro da Wix.com como desenvolvedor Wix Velo. Buscando me aprofundar em outras tecnologias e profissionalizar meus conhecimentos.
+Comecei a programar com 15 anos e desde então sou cada dia mais apaixonado pelo mundo da tecnologia. Sou parceiro da Wix.com como desenvolvedor Wix Velo. Faço parte, também, do time de desenvolvimento do cursinho popular CUJA UNIFESP. Buscando me aprofundar em outras tecnologias e profissionalizar meus conhecimentos.
 
 * 🌍  Estou em São Paulo
 * ✉️  Você pode entrar em contato comigo através do email [victorhcardinali@gmail.com](mailto:victorhcardinali@gmail.com)
